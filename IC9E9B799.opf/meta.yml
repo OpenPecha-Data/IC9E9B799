@@ -1,0 +1,19 @@
+id: IC9E9B799
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:42.084774
+last_modified: 2023-01-04 11:27:42.084788
+source_metadata:
+  collections:
+  - Adzom Gyalse Series
+  - Works of Tibetan Masters
+bases:
+  C34C:
+    title: 'Victorious in the Battle with the Four Demons: A Prayer to the Lineage
+      of the Wrathful Guru, Hayagrīva and Garuḍa'
+    base_file: C34C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
